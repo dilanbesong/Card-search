@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: rgb(152, 244, 244);
+}
+
+main {
+  margin-top: 1rem;
+}
+
+.form-control {
+  margin: 0 auto;
+  width: 90vw;
+}
+
+section {
+  margin: 0 auto;
+  /* display: grid;
+    grid-template-columns: repeat(4, 1fr); */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.error-input {
+  outline: none;
+  border: 1px solid red;
+}
+
+section article {
+  width: 200px;
+  height: 50px;
+  background-color: #fff;
+  font-size: 1.1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5rem;
+  cursor: pointer;
+}
