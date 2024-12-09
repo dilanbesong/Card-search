@@ -2,10 +2,10 @@ const items = [
 
     {id:1, name:'absalom'},
     {id:2, name:'abang'},
-    {id:3, name:'besong'},
-    {id:4, name:'bachem'},
+    {id:3, name:'base-build'},
+    {id:4, name:'base-meet'},
     {id:5, name:'caleb'},
-    {id:6, name:'circle'},
+    {id:6, name:'coinbase'},
     {id:7, name:'damarice'},
     {id:8, name:'dylan'},
     {id:9, name:'Elephant'},
